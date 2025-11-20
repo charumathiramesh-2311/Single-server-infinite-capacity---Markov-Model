@@ -12,10 +12,44 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
-## Procedure :
+## Algorithm :
 
-![imAGE](2.png)
+1.
 
+
+<br>
+
+2.
+
+
+
+
+
+<br>
+
+3.
+
+
+
+
+<br>
+
+
+4.
+
+
+
+
+
+<br>
+
+
+5.
+
+
+
+
+<br>
 
 
 ## Experiment:
@@ -61,4 +95,7 @@ print("---------------------------------------------------------------")
 <img width="819" height="312" alt="image" src="https://github.com/user-attachments/assets/0ed3fad6-056a-45d7-be71-8683bc84b787" />
 
 ## Result :
-The average number of material in the system and in the conveyor and waiting time are successfully found.
+
+
+
+<br>
